@@ -178,10 +178,10 @@ public class LoginAutomation {
         lastName.sendKeys("Laursen");// User Lastname
 
         emailAdress.clear();
-        emailAdress.sendKeys("abcdc@gmail.com"); // User email adress
+        emailAdress.sendKeys("abcdcfg@gmail.com"); // User email adress
 
         confirmEmailAdress.clear();
-        confirmEmailAdress.sendKeys("abcdc@gmail.com"); //Confirm user email
+        confirmEmailAdress.sendKeys("abcdcfg@gmail.com"); //Confirm user email
 
         password.clear();
         password.sendKeys("your_password"); // User password
